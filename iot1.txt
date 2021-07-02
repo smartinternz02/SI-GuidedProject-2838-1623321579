@@ -20,7 +20,7 @@ https://api.us-south.assistant.watson.cloud.ibm.com/instances/37adaab9-999d-4740
  
 
 Node red
-
+Node Red Link  : https://node-red-yfytg-2021-05-23.mybluemix.net/red/#flow/4a735c4b.b9b464
 ypCx2gpJzMVp6qhqBWuGBbb66ZvK8MX5oCfd1P1g5XyA : API KEY
 https://apikey-v2-38b3qncileavnkxrvabhrpf5nw75fdg9r37sg7vpjxfq:dd271d5fc308aed4b1c3b3110d1de688@278116a7-aa10-4b6f-b06b-f12106fd11ea-bluemix.cloudantnosqldb.appdomain.cloud : URL
 
